@@ -6,5 +6,5 @@ API: https://github.com/cientopolis/MoLE-API
 
 Authoring Tool:
 
-Mobile application:
+Mobile application:https://github.com/cientopolis/MOLE-mobile-app
 
