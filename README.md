@@ -8,17 +8,16 @@ Authoring Tool: https://github.com/cientopolis/MOLE-Authoring-Tool
 
 Mobile application:https://github.com/cientopolis/MOLE-mobile-app
 
-Coordinadora del equipo:
+<b>Coordinadora del equipo:</b>
 
 Alejandra Lliteras
 
-Miembros del equipo:
+<b>Miembros del equipo:</b>
 
 Pedro Dal Bianco
 Federico Mozzon Coorporal
 Federico Di Claudio
 
-Ex miembros del equipo:
 
 
 
