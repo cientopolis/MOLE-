@@ -8,6 +8,9 @@ Authoring Tool: https://github.com/cientopolis/MOLE-Authoring-Tool
 
 Mobile application:https://github.com/cientopolis/MOLE-mobile-app
 
+Mutable Widget: https://github.com/cientopolis/mutableWidget
+
+
 <b>Coordinadora del equipo:</b>
 
 Alejandra Lliteras
