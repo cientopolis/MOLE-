@@ -11,16 +11,15 @@ Mobile application:https://github.com/cientopolis/MOLE-mobile-app
 Mutable Widget: https://github.com/cientopolis/mutableWidget
 
 
-<b>Coordinadora del equipo:</b>
+<b>Coordinadores del equipo:</b>
 
-Alejandra Lliteras
+Alejandra Lliteras y Julián Grigera
 
-<b>Miembros del equipo:</b>
+<b>Miembros actuales del equipo:</b>
 
-Pedro Dal Bianco
-Federico Mozzon Coorporal
-Federico Di Claudio
+Federico Mozzon Coorporal (desde enero de 2018)
+Federico Di Claudio (desde Septiembre de 2019)
 
+<b>Fueron miembros de este equipo:</b>
 
-
-
+Pedro Dal Bianco (desde enero de 2018 hasta Diciembre de 2019)
