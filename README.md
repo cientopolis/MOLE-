@@ -17,9 +17,9 @@ Alejandra Lliteras y Julián Grigera
 
 <b>Miembros actuales del equipo:</b>
 
-Federico Mozzon Coorporal (desde enero de 2018)
+Federico Mozzon Coorporal (desde febrero de 2018)
 Federico Di Claudio (desde Septiembre de 2019)
 
 <b>Fueron miembros de este equipo:</b>
 
-Pedro Dal Bianco (desde enero de 2018 hasta Diciembre de 2019)
+Pedro Dal Bianco (desde febrero de 2018 hasta Diciembre de 2019)
